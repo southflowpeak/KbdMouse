@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>KbdMouse</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Sat, 08 Nov 2025 14:30:58 +0900</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://southflowpeak.github.io/KbdMouse/downloads/KbdMouse.dmg" length="1986297" type="application/octet-stream" sparkle:edSignature="OKVmwhc3AwJgxJULftmBGFbAtXb3rAPLmYwhFJ27jGS7XSYQLtCnuNLWUg0ftpKCmEx9VcwgKm1cIE2aFU9xCQ=="/>
+        </item>
+    </channel>
+</rss>
