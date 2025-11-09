@@ -3,12 +3,30 @@
     <channel>
         <title>KbdMouse</title>
         <item>
+<<<<<<< Updated upstream
             <title>1.1</title>
             <pubDate>Sat, 08 Nov 2025 16:16:50 +0900</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+||||||| Stash base
+            <title>1.0</title>
+            <pubDate>Sat, 08 Nov 2025 14:30:58 +0900</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+=======
+            <title>1.2</title>
+            <pubDate>Mon, 10 Nov 2025 01:34:05 +0900</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+>>>>>>> Stashed changes
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+<<<<<<< Updated upstream
             <enclosure url="https://southflowpeak.github.io/KbdMouse/downloads/KbdMouse.dmg" length="1991408" type="application/octet-stream" sparkle:edSignature="dQXb27ShFEaVZ8Z1m4dfrmGkUAKQpjsHBCZ0xWZDU9Nf0luEy7MpNDKgR1BGDdnq158OpmEChnHO4dHpdSj3Dw=="/>
+||||||| Stash base
+            <enclosure url="https://southflowpeak.github.io/KbdMouse/downloads/KbdMouse.dmg" length="1986297" type="application/octet-stream" sparkle:edSignature="OKVmwhc3AwJgxJULftmBGFbAtXb3rAPLmYwhFJ27jGS7XSYQLtCnuNLWUg0ftpKCmEx9VcwgKm1cIE2aFU9xCQ=="/>
+=======
+            <enclosure url="https://southflowpeak.github.io/KbdMouse/downloads/KbdMouse.dmg" length="2047454" type="application/octet-stream" sparkle:edSignature="Se6nma4kmmCw6e776auhrZ/VpYRXLYrgv32W5vu1H7ALTIhPRGYFLWo2JSW3TLuTHL/dEdwXvMp1E209vCAgDQ=="/>
+>>>>>>> Stashed changes
         </item>
     </channel>
 </rss>
