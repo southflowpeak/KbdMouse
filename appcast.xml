@@ -4,11 +4,19 @@
         <title>KbdMouse</title>
         <item>
             <title>1.2</title>
-            <pubDate>Mon, 10 Nov 2025 01:34:05 +0900</pubDate>
+            <pubDate>Mon, 10 Nov 2025 01:48:08 +0900</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://southflowpeak.github.io/KbdMouse/downloads/KbdMouse.dmg" length="2047581" type="application/octet-stream" sparkle:edSignature="F9+VfTNaWU+/Z/gSIaQBTnQ34460rlv88bmWbGs5mBca9oFwyENGgnZ4C2ynuaLeAO4MZ9bM4Gkz509H0ITkCA=="/>
+        </item>
+        <item>
+            <title>1.2</title>
+            <pubDate>Mon, 10 Nov 2025 01:48:08 +0900</pubDate>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://southflowpeak.github.io/KbdMouse/downloads/KbdMouse.dmg" length="2047454" type="application/octet-stream" sparkle:edSignature="Se6nma4kmmCw6e776auhrZ/VpYRXLYrgv32W5vu1H7ALTIhPRGYFLWo2JSW3TLuTHL/dEdwXvMp1E209vCAgDQ=="/>
+            <enclosure url="https://southflowpeak.github.io/KbdMouse/downloads/KbdMouse.dmg" length="2047452" type="application/octet-stream" sparkle:edSignature="l88OXBBgn4UseyoJ5Wun9h4t3fTJH1pDh8y0qkH7eRaXk4EJ36wYW8QnP9W0r2CeXP8xuVIS1EZnZ6RHbdOmDQ=="/>
         </item>
     </channel>
 </rss>
