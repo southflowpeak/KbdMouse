@@ -4,11 +4,11 @@
         <title>KbdMouse</title>
         <item>
             <title>1.7</title>
-            <pubDate>Mon, 17 Nov 2025 22:39:33 +0900</pubDate>
-            <sparkle:version>16</sparkle:version>
+            <pubDate>Tue, 18 Nov 2025 12:19:48 +0900</pubDate>
+            <sparkle:version>17</sparkle:version>
             <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://southflowpeak.github.io/KbdMouse/downloads/KbdMouse.dmg" length="2632841" type="application/octet-stream" sparkle:edSignature="AgcuEIfzBjtdShFe45qUSsXHm8lg6yvQgNRlw6+Xa7gAS+5AlghLUEztP4eLfxRFmJVBV1PzMXMi5DSBEGvSDg=="/>
+            <enclosure url="https://southflowpeak.github.io/KbdMouse/downloads/KbdMouse.dmg" length="2632361" type="application/octet-stream" sparkle:edSignature="iVEe4F+ZsvXZ3OmwlT9Hv3qFodm67rwXIrKiowa9tbkWJxOWuBKXF6YvYQ+RE6HjdAtBSyrTO4xeGMkta5t1Aw=="/>
         </item>
     </channel>
 </rss>
